@@ -28,4 +28,4 @@ Follow these steps to get your code editor up and running locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-code-editor.git
+   git clone https://github.com/Naza-sophie/code-editor.git
