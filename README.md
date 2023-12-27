@@ -13,7 +13,7 @@ Your Code Editor Name is a lightweight and customizable code editor built with R
 
 # Features
 
-- *Syntax Highlighting:* Clearly distinguish different elements of your code with syntax highlighting for various languages.
+- *Syntax Highlighting*: Clearly distinguish different elements of your code with syntax highlighting for various languages.
 
 - *Theme Support:* Choose from a variety of themes to suit your coding preferences.
 
