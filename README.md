@@ -1,4 +1,4 @@
-#Naza-Code-Editor
+# Naza-Code-Editor
 
 ![Your Code Editor Logo](https://iconduck.com/icons/243119/brackets-code-block-codeblock-script-coding-editor#)
 
